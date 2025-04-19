@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6802af112b529c070a1e7be1"
+  },
+  "sender": "user",
+  "text": "hiii why these message are not storing in mango db",
+  "timestamp": {
+    "$date": "2025-04-18T19:59:13.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6802bcee9c3bc2cfca6943cf"
+  },
+  "sender": "user",
+  "text": "hiii",
+  "timestamp": {
+    "$date": "2025-04-18T20:58:22.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6802bd339c3bc2cfca6943d1"
+  },
+  "sender": "user",
+  "text": "kem chho",
+  "timestamp": {
+    "$date": "2025-04-18T20:59:31.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6802bd429c3bc2cfca6943d3"
+  },
+  "sender": "user",
+  "text": "how are you",
+  "timestamp": {
+    "$date": "2025-04-18T20:59:46.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6802be0ba3f25db327de494b"
+  },
+  "sender": "user",
+  "text": "mera naa lalalalallalalal",
+  "timestamp": {
+    "$date": "2025-04-18T21:03:07.529Z"
+  },
+  "__v": 0
+}]
